@@ -1,5 +1,4 @@
-# ỨNG DỤNG RAG GROUNDING & NEGATIVE CONSTRAINT
-*Phòng chống ảo giác AI (Hallucination) trong nghiệp vụ Thu mua & Kiểm soát hợp đồng MartX*
+
 
 ---
 
